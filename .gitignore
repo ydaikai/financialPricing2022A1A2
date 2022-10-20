@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+password.txt
+.gitignore
+src/Makefile
